@@ -1,22 +1,16 @@
-<h1 align="center">Fodwi</h1>
+<h1 align="center">Hello, I'm Jaareet</h1>
 
 <div align="center">
-
-
-
-
-Discord FODWI#0001
-
+  
 <h2>📕 Stats<h2>
 
-<hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
+<hr style="height:5px; border: 1px solid #ccc;">
 
-![](https://github-readme-stats.vercel.app/api?username=Fodwi&show_icons=true)
-
-
-<h2>🧑‍💻 Languages and tools<h2>
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=kilichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=Fodwi&show_icons=true&theme=tokyonight&hide=["issues"])
   
-<div>
+<h2>🌍 Languages<h2>
+
+<hr style="height:5px; border: 1px solid #ccc;">
+
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
+</div>
