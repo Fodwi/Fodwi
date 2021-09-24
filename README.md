@@ -2,13 +2,13 @@
 
 <div align="center">
   
-<h2>📕 Stats<h2>
+<h2>📕 Stats 📕<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
 ![Snowflake107](https://github-readme-stats.vercel.app/api?username=Fodwi&show_icons=true&theme=tokyonight&hide=["issues"])
   
-<h2>🌍 Languages<h2>
+<h2>🌍 Programming languages 🌍<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
