@@ -5,7 +5,7 @@
 
 
 
-[![Discord](https://i.imgur.com/UZTVSo6.png)](https://discordapp.com/users/327026518112862210)
+[![Discord] FODWI#0001
 
 <h2>📕 Stats<h2>
 
