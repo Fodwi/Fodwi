@@ -12,5 +12,5 @@
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Fodwi&show_icons=true&theme=tokyonight&layout=compact)
 </div>
