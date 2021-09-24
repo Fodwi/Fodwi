@@ -5,7 +5,7 @@
 
 
 
-[![Discord] FODWI#0001
+Discord FODWI#0001
 
 <h2>📕 Stats<h2>
 
